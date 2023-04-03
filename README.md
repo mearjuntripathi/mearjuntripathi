@@ -24,6 +24,9 @@
 🌱 I’m currently learning full stack<br><br>
 👨‍💻  <a href="https://mearjuntripathi.github.io/portfolio/">Personal Portfolio</a><br><br>
 💬 Belive in Self Motivation<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mearjuntripathi&label=Profile%20views&color=0e75b6&style=flat" alt="mearjuntripahti" />
+
 📫 How to reach me <a href="mailto:mearjuntripathi">mail me</a><br><br>
 
 
