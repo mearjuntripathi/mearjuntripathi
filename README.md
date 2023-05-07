@@ -43,20 +43,20 @@
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/)  -->
 
 # 💻 Knowledge of Language:
-[![C Language](https://img.shields.io/badge/C%20Language-%23AAAAAA.svg?style=flat&logo=CLanguage&logoColor=white)]()
-[![C++ Language](https://img.shields.io/badge/C++-%23AAAAAA.svg?style=flat&logo=C++&logoColor=white)]()
-[![JAVA](https://img.shields.io/badge/JAVA-%23FF0000.svg?style=flat&logo=JAVA&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/php-%23563D7C.svg?style=flat&logo=php&logoColor=white)]()
+[![C Language](https://img.shields.io/badge/C%20Language-%23AAAAAA.svg?style=flat&logo=CLanguage&logoColor=white)](https://github.com/mearjuntripathi)
+[![C++ Language](https://img.shields.io/badge/C++-%23AAAAAA.svg?style=flat&logo=C++&logoColor=white)](https://github.com/mearjuntripathi)
+[![JAVA](https://img.shields.io/badge/JAVA-%23FF0000.svg?style=flat&logo=JAVA&logoColor=white)](https://github.com/mearjuntripathi)
+[![PHP](https://img.shields.io/badge/php-%23563D7C.svg?style=flat&logo=php&logoColor=white)](https://github.com/mearjuntripathi)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ]()
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)]()
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)]()
-[![Nodejs](https://img.shields.io/badge/nodejs-%230769AD.svg?style=flat&logo=nodejs&logoColor=white)]()
-[![mysql](https://img.shields.io/badge/mysql-%23563D7C.svg?style=flat&logo=mysql&logoColor=white)]()
-[![GoLang](https://img.shields.io/badge/golang-%230769AD.svg?style=flat&logo=golang&logoColor=white)]()
-[![LINUX](https://img.shields.io/badge/linux-%23000000.svg?style=flat&logo=linux&logoColor=white)]()
-[![Windows](https://img.shields.io/badge/windows-%230769AD.svg?style=flat&logo=windows&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ](https://github.com/mearjuntripathi)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](https://github.com/mearjuntripathi)
+[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)](https://github.com/mearjuntripathi)
+[![Nodejs](https://img.shields.io/badge/nodejs-%230769AD.svg?style=flat&logo=nodejs&logoColor=white)](https://github.com/mearjuntripathi)
+[![mysql](https://img.shields.io/badge/mysql-%23563D7C.svg?style=flat&logo=mysql&logoColor=white)](https://github.com/mearjuntripathi)
+[![GoLang](https://img.shields.io/badge/golang-%230769AD.svg?style=flat&logo=golang&logoColor=white)](https://github.com/mearjuntripathi)
+[![LINUX](https://img.shields.io/badge/linux-%23000000.svg?style=flat&logo=linux&logoColor=white)](https://github.com/mearjuntripathi)
+[![Windows](https://img.shields.io/badge/windows-%230769AD.svg?style=flat&logo=windows&logoColor=white)](https://github.com/mearjuntripathi)
 
 
 
