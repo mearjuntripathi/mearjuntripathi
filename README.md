@@ -40,7 +40,7 @@
 [![Google Developer](https://img.shields.io/badge/Google%20Developer-%23E34F26.svg?logo=google&logoColor=black)](https://g.dev/mearjuntripathi)
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?logo=telegram&logoColor=black)](https://t.me/mearjuntripathi)
  
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/) -->
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/)  -->
 
 # 💻 Knowledge of Language:
 [![C Language](https://img.shields.io/badge/C%20Language-%23AAAAAA.svg?style=flat&logo=CLanguage&logoColor=white)]()
