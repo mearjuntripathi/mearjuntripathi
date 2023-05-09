@@ -8,8 +8,6 @@
         \/           \______|              \/                            |__|          \/               \/      
 
 </pre>
-
-- 
 <!-- Readme typing svg: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=800&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Hi+there!;I'm+Arjun+Tripathi;mearjuntripathi;+Full+Stack+Developer;+Backend+Developer" alt="Typing SVG" /></a>
