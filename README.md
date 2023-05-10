@@ -61,6 +61,7 @@
 <br><br>
 <h1> 📊 GitHub Stats:</h1>
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mearjuntripathi&theme=blue-green"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mearjuntripathi&theme=dark&hide_border=false"><br>
 <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mearjuntripathi&theme=react-dark" />
 </div><hr>
