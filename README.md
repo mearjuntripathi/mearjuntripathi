@@ -48,3 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mearjuntripathi&show_icons=true&locale=en" alt="mearjuntripathi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mearjuntripathi&" alt="mearjuntripathi" /></p>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+</div>
