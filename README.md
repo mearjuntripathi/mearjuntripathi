@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs, MongoDB, ExpressJS**
 
-- 👨‍💻 All of my projects are available at [mearjuntripathi.github.io/portfolio](mearjuntripathi.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [mearjuntripathi.github.io/portfolio](https://mearjuntripathi.github.io/projects.html)
 
 - 💬 Ask me about **Java, C++, C, PHP, and GO**
 
