@@ -1,5 +1,3 @@
-Here's the revised README with **all languages and tools** from your resume, each represented by an icon:
-
 ---
 
 <pre>
