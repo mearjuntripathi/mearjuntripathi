@@ -1,53 +1,101 @@
-<pre>
+Here's the revised README with **all languages and tools** from your resume, each represented by an icon:
 
+---
+
+<pre>
    _____                  __                   ___________          .__                      __    .__      .__ 
   /  _  \   _______      |__|  __ __    ____   \__    ___/ _______  |__| ______   _____    _/  |_  |  |__   |__|
  /  /_\  \  \_  __ \     |  | |  |  \  /    \    |    |    \_  __ \ |  | \____ \  \__  \   \   __\ |  |  \  |  |
 /    |    \  |  | \/     |  | |  |  / |   |  \   |    |     |  | \/ |  | |  |_> >  / __ \_  |  |   |   Y  \ |  |
 \____|__  /  |__|    /\__|  | |____/  |___|  /   |____|     |__|    |__| |   __/  (____  /  |__|   |___|  / |__|
         \/           \______|              \/                            |__|          \/               \/      
-
 </pre>
+
 <h1 align="center">Hi 👋, I'm Arjun Tripathi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mearjuntripathi&label=Profile%20views&color=0e75b6&style=flat" alt="mearjuntripathi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mearjuntripathi" alt="mearjuntripathi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mearjuntripathi" target="blank"><img src="https://img.shields.io/twitter/follow/mearjuntripathi?logo=twitter&style=for-the-badge" alt="mearjuntripathi" /></a> </p>
-
-- 🔭 I’m currently working on [Javascript](https://github.com/mearjuntripathi/javaScript)
-
-- 🌱 I’m currently learning **React, Nodejs, MongoDB, ExpressJS**
-
-- 👨‍💻 All of my projects are available at [mearjuntripathi.github.io/portfolio](https://mearjuntripathi.github.io/projects.html)
-
-- 💬 Ask me about **Java, C++, C, PHP, and GO**
-
-- 📫 How to reach me **mearjuntripathi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mearjuntripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mearjuntripathi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mearjuntripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mearjuntripathi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20118578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20118578" height="30" width="40" /></a>
-<a href="https://instagram.com/mearjuntripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mearjuntripathi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/isthisarjun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="isthisarjun" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mearjuntripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mearjuntripathi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mearjuntripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mearjuntripathi" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mearjuntripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mearjuntripathi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mearjuntripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mearjuntripathi" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mearjuntripathi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### About Me 🚀
+- 🎓 **Education**: MCA from Dr. A.P.J. Abdul Kalam Technical University (CGPA: 8.3)  
+- 🔭 **Current Focus**: [JavaScript](https://github.com/mearjuntripathi/javaScript), learning **React, Node.js, MongoDB, ExpressJS**  
+- 💬 **Ask Me About**: C, C++, Java, PHP, GO  
+- 📫 **How to reach me**: mearjuntripathi@gmail.com  
+- 🛠 **Experience**: Software Engineer Intern at Rhizicube  
+- 👨‍💻 **Portfolio**: [Projects](https://mearjuntripathi.github.io/projects.html)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mearjuntripathi&show_icons=true&locale=en&layout=compact" alt="mearjuntripathi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=mearjuntripathi" alt="mearjuntripathi" />
+### Languages & Tools 🛠️
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang" width="40" />
+  
+  <!-- Libraries & Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.IO" width="40" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" />
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" />
+</p>
+
+---
+
+### Projects 💻
+- **[TestHub](https://explorer-app.github.io/testhub/)**: Online test portal using Node.js, React.js, Express.js  
+- **[DR Enterprises Website](https://dineshranaenterprises.in/)**: Freelance portfolio using PHP and MySQL  
+- **[Tic Tac Toe](https://mearjuntripathi.github.io/tictactoe/)**: Real-time multiplayer game with Socket.IO  
+- **[REST API in Go](https://github.com/mearjuntripathi/GOLang)**: Dockerized API using gin-gonic  
+
+---
+
+### Honors & Awards 🏆
+- ⭐ Solved **350+ problems** on GeeksForGeeks  
+- 🏅 **3 stars** on CodeChef and LeetCode  
+- 🎖️ **5 stars** on HackerRank in C and C++  
+- 🏆 **400+ problems** on CodeChef and **500+ problems** on LeetCode  
+
+---
+
+### Connect with Me 🌐
+<p align="left">
+  <a href="https://twitter.com/mearjuntripathi" target="blank"><img src="https://img.shields.io/twitter/follow/mearjuntripathi?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/mearjuntripathi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" /></a>
+  <a href="https://leetcode.com/mearjuntripathi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" /></a>
+  <a href="https://www.codechef.com/users/isthisarjun" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" /></a>
+  <a href="https://stackoverflow.com/users/20118578" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="30" /></a>
+</p>
+
+---
+
+### GitHub Stats 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mearjuntripathi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mearjuntripathi" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Motivational Quote" />
 </div>
+
+---
